@@ -42,6 +42,7 @@ int checkSum(uint8_t msg[]) {
     }
     return checksum;
 }
+//hello this is a test change
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
