@@ -39,9 +39,9 @@ aud_data= np.array(aud_data)
 
 #normalising 
 
-# aud_data= (aud_data - aud_data.min())/aud_data.max() #scals from 0-1
-# aud_data= aud_data*255
-# aud_data= aud_data.astype(np.uint8) #converting to uint8 type
+aud_data= (aud_data - aud_data.min())/aud_data.max() #scals from 0-1
+aud_data= aud_data*255
+aud_data= aud_data.astype(np.uint8) #converting to uint8 type
 
 #writing to wav file 
 
