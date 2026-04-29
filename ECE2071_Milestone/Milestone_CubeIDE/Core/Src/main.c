@@ -55,7 +55,7 @@ UART_HandleTypeDef huart1;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-char ID[] = "G04_0"; // ID = G04_0, G04_1, G04_3, G04_4
+char ID[] = "G04_0"; // ID = G04_0, G04_1, G04_3, G04_4 :)
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
